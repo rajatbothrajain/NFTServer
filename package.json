@@ -2,10 +2,9 @@
   "name": "NFTServer",
   "version": "1.0.0",
   "description": "Create Server For NFT",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index",
-    "build": "npm install",
   },
   "repository": {
     "type": "git",
