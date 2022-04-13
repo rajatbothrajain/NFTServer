@@ -15,9 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - task: NodeTool@0 
-        inputs: 
-         versionSpec: '14.x' 
       - uses: actions/checkout@v2
         with:
           submodules: true
