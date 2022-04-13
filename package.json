@@ -21,6 +21,6 @@
   "dependencies": {
     "express": "^4.17.3",
     "joi": "^13.1.0",
-    "nodejs": "^14.19.0"
+    "nodejs": "0.0.0"
   }
 }
