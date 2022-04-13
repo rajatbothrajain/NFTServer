@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node index",
-    "build": "CI=false react-scripts build",
+    "build": "npm install",
   },
   "repository": {
     "type": "git",
