@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rajatbothrajain/NFTServer#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "joi": "^13.1.0"
+    "joi": "^13.1.0",
+    "nodejs": "0.0.0"
   }
 }
