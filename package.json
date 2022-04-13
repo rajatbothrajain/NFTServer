@@ -4,7 +4,8 @@
   "description": "Create Server For NFT",
   "main": "app.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "build": "CI=false react-scripts build",
   },
   "repository": {
     "type": "git",
