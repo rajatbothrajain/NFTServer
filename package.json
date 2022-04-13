@@ -1,0 +1,24 @@
+{
+  "name": "NFTServer",
+  "version": "1.0.0",
+  "description": "Create Server For NFT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatbothrajain/NFTServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatbothrajain/NFTServer/issues"
+  },
+  "homepage": "https://github.com/rajatbothrajain/NFTServer#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^13.1.0"
+  }
+}

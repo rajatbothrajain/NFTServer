@@ -1,0 +1,13 @@
+Create pcjjson file:
+npm init --yes
+
+Install express: RestAPI
+npm i express
+
+Nodemon : Monitor Changes 
+npm i -g nodemon
+
+Install joi , for input validation
+npm i joi@13.1.0 
+
+
